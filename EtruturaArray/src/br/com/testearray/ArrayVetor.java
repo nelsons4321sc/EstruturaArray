@@ -13,7 +13,11 @@ public class ArrayVetor {
 		notas[2] = 6.8;
 		notas[3] = 7.8;
 		
-		System.out.println(notas[1]);
+		System.out.println("Nota 1 = "+notas[0]);
+		System.out.println("Nota 2 = "+notas[1]);
+		System.out.println("Nota 3 = "+notas[2]);
+		System.out.println("Nota 4 = "+notas[3]);
+		
 		
 	}
 
