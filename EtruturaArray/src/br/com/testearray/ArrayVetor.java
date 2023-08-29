@@ -6,6 +6,7 @@ public class ArrayVetor {
 		
 		//Array deve ter uma quantidade de posições definidas, e pode ser todos ostipos de dados e objetos
 		double[] notas = new double[4];
+		//caso o núnero de posições for menor, dará estouro e erro
 		
 		notas[0] = 8.8;
 		notas[1] = 4.8;
